@@ -1,0 +1,63 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+a.navbar-title {
+    color: #FF5600 !important;
+}
+
+.dp-img-div {
+    background-image: url("../images/picture.jpg");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 50px;
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.35);
+}
+
+.lift-top-div {
+    position: relative;
+    top: -100px;
+    bottom: 0px;
+}
+
+.font-name {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.8em;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.x-pad-top {
+    padding-top: 2%;
+}
+
+.x-pad-btm {
+    padding-bottom: 2%;
+}
+
+.hr {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #AAA;
+    line-height: 0;
+    margin-top: -7%;
+    margin-bottom: 3%;
+}
+
+.about-me-text {
+    background-color: #EEE;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.blank-div {
+    height: 10em;
+}
